@@ -1,0 +1,1 @@
+<form method="POST" action="excluir.php"><input name="aluno" value="'+id+'" hidden><button type="submit" class="btn btn-danger">Sim</button></form>
